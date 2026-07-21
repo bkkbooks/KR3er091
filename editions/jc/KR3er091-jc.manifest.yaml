@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3er091_000-jc.yaml, hash: 'sha256:b5f73b0c933318a62c61a0998075eaea1bbac0e25a27ecc74d50433fd343adfe'}
+  - {seq: 0, filename: KR3er091_000-jc.yaml, hash: 'sha256:280f132d2716286a9d9f25b8855c42c70451c748e8a672f30b6d67126934a1a6'}
   - {seq: 1, filename: KR3er091_001-jc.yaml, hash: 'sha256:5f1393ace06cac71a663a14337ceb5ac46801141ff32686555da1dd840317e63'}
   - {seq: 2, filename: KR3er091_002-jc.yaml, hash: 'sha256:fd1ffe406da4b36b3335dd4630ce5e41bea06474610bf8a1629c36c622f6980c'}
   - {seq: 3, filename: KR3er091_003-jc.yaml, hash: 'sha256:e4cdeb607dabfa391a4c99540426a7602c7e27cf728689c5a990cbc70479d276'}
@@ -59,7 +59,7 @@ assets:
   - {seq: 39, filename: KR3er091_039-jc.yaml, hash: 'sha256:3aef319263edfebb4f20c5e1ead07330797bba8b9ef0bd19b4f63fb18e8bafbf'}
   - {seq: 40, filename: KR3er091_040-jc.yaml, hash: 'sha256:c5ef0d27ce6ffd8b9576e822f1999260cb2f9b077752bdc960fe5ce3f620a663'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er091_000-jc.markers.yaml, hash: 'sha256:aadd963e66da6d030bbd149bbfe9ce6c870d19ace669fe341e27e08067662191'}
+  - {seq: 0, role: markers, filename: assets/KR3er091_000-jc.markers.yaml, hash: 'sha256:0b5d677377f66a8a7613deaf44614e910979a3887fcaeab2f8e84d419b3c6a94'}
   - {seq: 1, role: markers, filename: assets/KR3er091_001-jc.markers.yaml, hash: 'sha256:3d5aa168a2cf3526fbb60be967004c7805bd2815af4f365b0005241d7f4d9dcf'}
   - {seq: 2, role: markers, filename: assets/KR3er091_002-jc.markers.yaml, hash: 'sha256:d828baf5370efe08667bff19c7a840521d93365a8f4e672ff2e423965d95bab3'}
   - {seq: 3, role: markers, filename: assets/KR3er091_003-jc.markers.yaml, hash: 'sha256:1b68fbb479c8adb4af6cdb8df68018d3dc8032cea98fa6994b36314909a52aeb'}
@@ -105,7 +105,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er091_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 638
   label: 重刻外臺秘要方序
@@ -115,7 +115,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er091_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 638
     - 995
   label: 重刻外臺秘要序
@@ -125,7 +125,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er091_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 995
     - 1351
   label: 外臺秘要序
@@ -135,7 +135,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er091_jc_000-d5.h1s1
     span:
-    - front
+    - body
     - 1351
     - 2427
   label: 自序
@@ -145,7 +145,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er091_jc_000-d6.h1s1
     span:
-    - front
+    - body
     - 2427
     - 3364
   label: 外臺秘要方序
@@ -155,7 +155,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er091_jc_000-d7.h1s1
     span:
-    - front
+    - body
     - 3364
     - 3825
   label: 較正唐王燾先生外臺秘要方序
@@ -11421,4 +11421,4 @@ table_of_contents:
   label: 油衣黏及松脂著人衣蟲蝕毯韉法五首
   type: section
   level: 2
-hash: sha256:b0b402e302946c2b277b4baeef4a387f5210f00abbdbcdaecb06ff69a2d2275c
+hash: sha256:90d3ff0c8098eed3ff538c2c6de72f7c83d3843b894bc154cf14c66e9b0855d7
